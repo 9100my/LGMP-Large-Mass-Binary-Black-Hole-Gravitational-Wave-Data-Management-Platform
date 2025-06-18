@@ -124,9 +124,9 @@ CLIENT_URL=http://localhost:3000
 # JWT密钥
 JWT_SECRET=your-super-secret-jwt-key-change-in-production
 
-# OpenAI配置 (必需)
-OPENAI_API_KEY=your-openai-api-key-here
-OPENAI_BASE_URL=https://xiaoai.plus/v1
+# deepseek配置 (必需)
+DEEPSEEK_API_KEY=your-deepseek-api-key-here
+DEEPSEEEK_BASE_URL=https://api.deepseek.com
 
 # 数据库配置
 DB_PATH=./database/gravitational_wave.db

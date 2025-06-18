@@ -74,7 +74,7 @@
 - **Node.js** + **Express.js**
 - **SQLite** 数据库
 - **JWT** 认证
-- **OpenAI GPT-4o API** 集成
+- **DEEPSEEK** 集成
 - **Multer** 文件上传
 - **Helmet** 安全中间件
 
@@ -91,7 +91,7 @@
 ### 环境要求
 - Node.js >= 16.0.0
 - npm >= 8.0.0
-- OpenAI API密钥
+- DEEPSEEK密钥
 
 ### 安装依赖
 
